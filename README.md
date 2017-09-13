@@ -10,5 +10,5 @@ In Progress:
   
 Need to Figure Out:
   1. Different states of collision between player character being in attack and idle animations.
-      a. If idle, player character is destroyed from the collision and the level restarts.
-      b. If attack, player character destroys the incoming projectiles or the enemy.
+  a. If idle, player character is destroyed from the collision and the level restarts.
+  b. If attack, player character destroys the incoming projectiles or the enemy.
